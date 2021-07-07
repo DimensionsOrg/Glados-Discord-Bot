@@ -1,0 +1,512 @@
+{
+  "Item000": [
+    {
+      "Name": "Le Titre de Propriété de DIMENSIONS",
+      "Ref": "Discord",
+      "ID": "000",
+      "img": "https://zupimages.net/up/19/01/wk7n.jpg",
+      "footer_text": "Dommage que la date de validité soit dépassée...",
+      "footer_img": "https://i.kym-cdn.com/photos/images/original/000/925/494/218.png_large"
+    }
+  ],
+  "Item001": [
+    {
+      "Name": "La Blouse d'Okabe Rintarou",
+      "Ref": "Steins;Gate",
+      "ID": "001",
+      "img": "https://zupimages.net/up/19/01/53ba.png",
+      "footer_text": "El Psy Congroo !!",
+      "footer_img": "https://zupimages.net/up/18/01/orcb.png"
+    }
+  ],
+  "Item002": [
+    {
+      "Name": "Le Metal Upa de Mayuri",
+      "Ref": "Steins;Gate",
+      "ID": "002",
+      "img": "https://zupimages.net/up/19/01/jmbr.png",
+      "footer_text": "El Psy Congroo !!",
+      "footer_img": "https://zupimages.net/up/18/01/orcb.png"
+    }
+  ],
+  "Item003": [
+    {
+      "Name": "La Casquette de Daru",
+      "Ref": "Steins;Gate",
+      "ID": "003",
+      "img": "https://zupimages.net/up/19/01/v7b2.png",
+      "footer_text": "El Psy Congroo !!",
+      "footer_img": "https://zupimages.net/up/18/01/orcb.png"
+    }
+  ],
+  "Item004": [
+    {
+      "Name": "Le Pins de LabMember",
+      "Ref": "Steins;Gate",
+      "ID": "004",
+      "img": "https://zupimages.net/up/18/01/m32p.png",
+      "footer_text": "El Psy Congroo !!",
+      "footer_img": "https://zupimages.net/up/18/01/orcb.png"
+    }
+  ],
+  "Item005": [
+    {
+      "Name": "La Machine à Time Leapo",
+      "Ref": "Steins;Gate",
+      "ID": "005",
+      "img": "https://zupimages.net/up/19/01/gf5o.png",
+      "footer_text": "El Psy Congroo !!",
+      "footer_img": "https://zupimages.net/up/18/01/orcb.png"
+    }
+  ],
+  "Item006": [
+    {
+      "Name": "Une Bouteille de Dr Pepper",
+      "Ref": "Steins;Gate",
+      "ID": "006",
+      "img": "https://zupimages.net/up/19/01/xf7x.png",
+      "footer_text": "El Psy Congroo !!",
+      "footer_img": "https://zupimages.net/up/18/01/orcb.png"
+    }
+  ],
+  "Item007": [
+    {
+      "Name": "Le Swordfish II de Spike",
+      "Ref": "Cowboy Bebop",
+      "ID": "007",
+      "img": "https://zupimages.net/up/19/01/zlk5.png",
+      "footer_text": "See you space cowboy...",
+      "footer_img": "https://zupimages.net/up/19/01/nlag.jpeg"
+    }
+  ],
+  "Item008": [
+    {
+      "Name": "Le Red Tail de Fay",
+      "Ref": "Cowboy Bebop",
+      "ID": "008",
+      "img": "https://zupimages.net/up/19/01/rtat.png",
+      "footer_text": "See you space cowboy...",
+      "footer_img": "https://zupimages.net/up/19/01/nlag.jpeg"
+    }
+  ],
+  "Item009": [
+    {
+      "Name": "Les Lunettes de Ed",
+      "Ref": "Cowboy Bebop",
+      "ID": "009",
+      "img": "https://zupimages.net/up/19/01/fj1c.png",
+      "footer_text": "See you space cowboy...",
+      "footer_img": "https://zupimages.net/up/19/01/nlag.jpeg"
+    }
+  ],
+  "Item010": [
+    {
+      "Name": "Le Bebop de Jet",
+      "Ref": "Cowboy Bebop",
+      "ID": "010",
+      "img": "https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/5d7fece6-6764-4e98-b74d-5da043e6b4d4",
+      "footer_text": "See you space cowboy...",
+      "footer_img": "https://zupimages.net/up/19/01/nlag.jpeg"
+    }
+  ],
+  "Item011": [
+    {
+      "Name": "Ein Le Chien",
+      "Ref": "Cowboy Bebop",
+      "ID": "011",
+      "img": "https://vignette.wikia.nocookie.net/cowboybebop/images/c/cd/6_Ein1.png/revision/latest?cb=20091209161501",
+      "footer_text": "See you space cowboy...",
+      "footer_img": "https://zupimages.net/up/19/01/nlag.jpeg"
+    }
+  ],
+  "Item012": [
+    {
+      "Name": "La Boussole des Etoiles",
+      "Ref": "Made in Abyss",
+      "ID": "012",
+      "img": "https://zupimages.net/up/19/01/nowb.png",
+      "footer_text": "Tout ce qui provient de l’Abysse y retourne un jour.",
+      "footer_img": "https://www.nautiljon.com/images/perso/00/97/lyza_15379.jpg"
+    }
+  ],
+  "Item013": [
+    {
+      "Name": "Les Lunettes du Major",
+      "Ref": "Ghost in the Shell",
+      "ID": "013",
+      "img": "https://zupimages.net/up/19/01/306h.png",
+      "footer_text": "J'ai sillonné tous les réseaux et j'ai pris conscience de ma propre existence...",
+      "footer_img": "https://66.media.tumblr.com/831e14bd84221410e513a0e9a00c37ba/tumblr_oqycjjoZje1vze779o1_400.png"
+    }
+  ],
+  "Item014": [
+    {
+      "Name": "Le Costume d'All Might",
+      "Ref": "My Hero Academia",
+      "ID": "014",
+      "img": "https://zupimages.net/up/19/01/4k2h.png",
+      "footer_text": "PLUS ULTRA !!",
+      "footer_img": "https://ih1.redbubble.net/image.241089661.0482/flat,550x550,075,f.u8.jpg"
+    }
+  ],
+  "Item015": [
+    {
+      "Name": "Le Masque de Midoriya",
+      "Ref": "My Hero Academia",
+      "ID": "015",
+      "img": "https://zupimages.net/up/19/01/yfno.png",
+      "footer_text": "PLUS ULTRA !!",
+      "footer_img": "https://ih1.redbubble.net/image.241089661.0482/flat,550x550,075,f.u8.jpg"
+    }
+  ],
+  "Item016": [
+    {
+      "Name": "Le Dominator",
+      "Ref": "Psycho-Pass",
+      "ID": "016",
+      "img": "https://vignette.wikia.nocookie.net/psychopass/images/6/6e/Dominator.png/revision/latest?cb=20141113122320",
+      "footer_text": "Le seul moment où les gens ont vraiment de la valeur c'est quand ils agissent de leur propre volonté.",
+      "footer_img": "https://vignette.wikia.nocookie.net/psychopass/images/9/91/Bureau_logo.png/revision/latest?cb=20141029201419"
+    }
+  ],
+  "Item017": [
+    {
+      "Name": "Le Journal du Futur de Yukiteru",
+      "Ref": "Mirai Nikki",
+      "ID": "017",
+      "img": "https://zupimages.net/up/19/01/ftll.png",
+      "footer_text": "YUKIIIIII...",
+      "footer_img": "https://zupimages.net/up/19/01/j9b6.jpg"
+    }
+  ],
+  "Item018": [
+    {
+      "Name": "Le Journal du Futur de Yuno",
+      "Ref": "Mirai Nikki",
+      "ID": "018",
+      "img": "https://zupimages.net/up/19/01/jtzk.png",
+      "footer_text": "YUKIIIIII...",
+      "footer_img": "https://zupimages.net/up/19/01/j9b6.jpg"
+    }
+  ],
+  "Item019": [
+    {
+      "Name": "Le Katana de Yuno",
+      "Ref": "Mirai Nikki",
+      "ID": "019",
+      "img": "https://zupimages.net/up/19/01/0zoi.png",
+      "footer_text": "YUKIIIIII...",
+      "footer_img": "https://zupimages.net/up/19/01/j9b6.jpg"
+    }
+  ],
+  "Item020": [
+    {
+      "Name": "Le Masque de Kaneki",
+      "Ref": "Tokyo Ghoul",
+      "ID": "020",
+      "img": "https://zupimages.net/up/19/01/nrrn.png",
+      "footer_text": "Si on écrivait une histoire avec moi comme personnage principal... Cette histoire serait à coup sûr... Une tragédie.",
+      "footer_img": "https://zupimages.net/up/19/01/05vx.png"
+    }
+  ],
+  "Item021": [
+    {
+      "Name": "La Faux Jason XII de Juzo Suzuha",
+      "Ref": "Tokyo Ghoul",
+      "ID": "021",
+      "img": "https://zupimages.net/up/19/01/5t8a.png",
+      "footer_text": "Si on écrivait une histoire avec moi comme personnage principal... Cette histoire serait à coup sûr... Une tragédie.",
+      "footer_img": "https://zupimages.net/up/19/01/05vx.png"
+    }
+  ],
+  "Item022": [
+    {
+      "Name": "Les 7 Dragons Balls",
+      "Ref": "Dragon Ball",
+      "ID": "022",
+      "img": "https://vignette.wikia.nocookie.net/dragonball/images/6/63/Dragon_Balls_.png/revision/latest?cb=20120225164126",
+      "footer_text": "IT'S OVER 9000 !!!",
+      "footer_img": "https://zupimages.net/up/19/01/m4kq.png"
+    }
+  ],
+  "Item023": [
+    {
+      "Name": "Le Nuage Magique de Goku",
+      "Ref": "Dragon Ball",
+      "ID": "023",
+      "img": "https://monquranetmoi.fr/wp-content/uploads/2016/08/Nuage_magique___dragon_ball____sangoku.png",
+      "footer_text": "IT'S OVER 9000 !!!",
+      "footer_img": "https://zupimages.net/up/19/01/m4kq.png"
+    }
+  ],
+  "Item024": [
+    {
+      "Name": "Le Bâton Magique de Goku",
+      "Ref": "Dragon Ball",
+      "ID": "024",
+      "img": "https://zupimages.net/up/19/01/ufdg.png",
+      "footer_text": "IT'S OVER 9000 !!!",
+      "footer_img": "https://zupimages.net/up/19/01/m4kq.png"
+    }
+  ],
+  "Item025": [
+    {
+      "Name": "La Carapace de Tortue Géniale",
+      "Ref": "Dragon Ball",
+      "ID": "025",
+      "img": "https://zupimages.net/up/19/01/dzff.png",
+      "footer_text": "IT'S OVER 9000 !!!",
+      "footer_img": "https://zupimages.net/up/19/01/m4kq.png"
+    }
+  ],
+  "Item026": [
+    {
+      "Name": "Le Detecteur de Ki de Vegeta",
+      "Ref": "Dragon Ball",
+      "ID": "026",
+      "img": "https://zupimages.net/up/19/01/fnwj.png",
+      "footer_text": "IT'S OVER 9000 !!!",
+      "footer_img": "https://zupimages.net/up/19/01/m4kq.png"
+    }
+  ],
+  "Item027": [
+    {
+      "Name": "Le Detecteur de Dragon Ball de Bulma",
+      "Ref": "Dragon Ball",
+      "ID": "027",
+      "img": "https://vignette.wikia.nocookie.net/dragonball/images/4/46/Radar.png/revision/latest?cb=20120216154129&path-prefix=fr",
+      "footer_text": "IT'S OVER 9000 !!!",
+      "footer_img": "https://zupimages.net/up/19/01/m4kq.png"
+    }
+  ],
+  "Item028": [
+    {
+      "Name": "Une Capsule de CapsuleCorp©",
+      "Ref": "Dragon Ball",
+      "ID": "028",
+      "img": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/2/2d/Training_1.png/revision/latest?cb=20150903220904",
+      "footer_text": "IT'S OVER 9000 !!!",
+      "footer_img": "https://zupimages.net/up/19/01/m4kq.png"
+    }
+  ],
+  "Item029": [
+    {
+      "Name": "Le Chapeau de Paille de Luffy",
+      "Ref": "One Piece",
+      "ID": "029",
+      "img": "https://zupimages.net/up/19/01/8xts.png",
+      "footer_text": "Le roi des pirates, ce sera moi !",
+      "footer_img": "https://vignette.wikia.nocookie.net/com-mangas-fr/images/6/6c/Logo-one-piece.png/revision/latest?cb=20140709170844&path-prefix=fr"
+    }
+  ],
+  "Item030": [
+    {
+      "Name": "Les 3 Sabres de Zoro",
+      "Ref": "One Piece",
+      "ID": "030",
+      "img": "https://vignette.wikia.nocookie.net/onepiece/images/d/d5/Katana_Zoro.png/revision/latest?cb=20141230204205&path-prefix=fr",
+      "footer_text": "Le roi des pirates, ce sera moi !",
+      "footer_img": "https://vignette.wikia.nocookie.net/com-mangas-fr/images/6/6c/Logo-one-piece.png/revision/latest?cb=20140709170844&path-prefix=fr"
+    }
+  ],
+  "Item031": [
+    {
+      "Name": "Le Log Pose de Nami",
+      "Ref": "One Piece",
+      "ID": "031",
+      "img": "https://vignette.wikia.nocookie.net/onepiece/images/0/0e/Log_Pose_Infobox.png/revision/latest/scale-to-width-down/270?cb=20181027135829&path-prefix=fr",
+      "footer_text": "Le roi des pirates, ce sera moi !",
+      "footer_img": "https://vignette.wikia.nocookie.net/com-mangas-fr/images/6/6c/Logo-one-piece.png/revision/latest?cb=20140709170844&path-prefix=fr"
+    }
+  ],
+  "Item032": [
+    {
+      "Name": "Le Thousand Sunny",
+      "Ref": "One Piece",
+      "ID": "032",
+      "img": "https://zupimages.net/up/19/01/kn14.jpg",
+      "footer_text": "Le roi des pirates, ce sera moi !",
+      "footer_img": "https://vignette.wikia.nocookie.net/com-mangas-fr/images/6/6c/Logo-one-piece.png/revision/latest?cb=20140709170844&path-prefix=fr"
+    }
+  ],
+  "Item033": [
+    {
+      "Name": "La Clé de la Cave d'Eren",
+      "Ref": "L'Attaque des Titans",
+      "ID": "033",
+      "img": "https://i.pinimg.com/originals/6d/b2/56/6db2562a26c1b2c55dafa09187509d76.png",
+      "footer_text": "Pour vivre, il faut vaincre. Et pour vaincre... Il faut se battre !",
+      "footer_img": "http://www.rw-designer.com/icon-image/11975-256x256x32.png"
+    }
+  ],
+  "Item034": [
+    {
+      "Name": "Le Blason du Bataillon d'Exploration",
+      "Ref": "L'Attaque des Titans",
+      "ID": "034",
+      "img": "https://zupimages.net/up/19/01/k2li.png",
+      "footer_text": "Pour vivre, il faut vaincre. Et pour vaincre... Il faut se battre !",
+      "footer_img": "http://www.rw-designer.com/icon-image/11975-256x256x32.png"
+    }
+  ],
+  "Item035": [
+    {
+      "Name": "Le Blason de la Garnison",
+      "Ref": "L'Attaque des Titans",
+      "ID": "035",
+      "img": "http://ekladata.com/TUnaalmg0_bzaRW3-NWqc8z4K6M@200x252.png",
+      "footer_text": "Pour vivre, il faut vaincre. Et pour vaincre... Il faut se battre !",
+      "footer_img": "http://www.rw-designer.com/icon-image/11975-256x256x32.png"
+    }
+  ],
+  "Item036": [
+    {
+      "Name": "Le Blason des Brigades Spéciales",
+      "Ref": "L'Attaque des Titans",
+      "ID": "036",
+      "img": "http://ekladata.com/TSy_w5pGik3GUAFx07IPGKFAZ-s@200x237.png",
+      "footer_text": "Pour vivre, il faut vaincre. Et pour vaincre... Il faut se battre !",
+      "footer_img": "http://www.rw-designer.com/icon-image/11975-256x256x32.png"
+    }
+  ],
+  "Item037": [
+    {
+      "Name": "Le Katana Murasame d'Akame",
+      "Ref": "Red Eyes Sword",
+      "ID": "037",
+      "img": "https://zupimages.net/up/19/01/picx.png",
+      "footer_text": "Tout comme les hommes périssent un jour ou l’autre, les pays finissent eux aussi par s’effondrer...",
+      "footer_img": "https://i.downloadatoz.com/upload/android/other/201412/11/akame-ga-kill-battery-pn-1418264330.jpg"
+    }
+  ],
+  "Item038": [
+    {
+      "Name": "Une Pokeball",
+      "Ref": "Pokémon",
+      "ID": "038",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pokebola-pokeball-png-0.png/769px-Pokebola-pokeball-png-0.png",
+      "footer_text": "Attrapez-les tous !",
+      "footer_img": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG"
+    }
+  ],
+  "Item039": [
+    {
+      "Name": "Le Starteur de Type Feu Salamèche",
+      "Ref": "Pokémon",
+      "ID": "039",
+      "img": "https://vignette.wikia.nocookie.net/pokemon59/images/5/51/Salameche-2.png/revision/latest?cb=20140601002636&path-prefix=fr",
+      "footer_text": "Attrapez-les tous !",
+      "footer_img": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG"
+    }
+  ],
+  "Item040": [
+    {
+      "Name": "Le Starteur de Type Eau Kaiminus",
+      "Ref": "Pokémon",
+      "ID": "040",
+      "img": "http://lemondedepokemon.wifeo.com/images/k/kai/Kaiminus.gif",
+      "footer_text": "Attrapez-les tous !",
+      "footer_img": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG"
+    }
+  ],
+  "Item041": [
+    {
+      "Name": "Le Starteur de Type Plante Arcko",
+      "Ref": "Pokémon",
+      "ID": "041",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/252.png",
+      "footer_text": "Attrapez-les tous !",
+      "footer_img": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG"
+    }
+  ],
+  "Item042": [
+    {
+      "Name": "Le Starteur de Type Electrique Pikachu",
+      "Ref": "Pokémon",
+      "ID": "042",
+      "img": "https://vignette.wikia.nocookie.net/camphalfbloodroleplay/images/7/77/Pikachu.png/revision/latest?cb=20141004224742",
+      "footer_text": "Attrapez-les tous !",
+      "footer_img": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG"
+    }
+  ],
+  "Item043": [
+    {
+      "Name": "La Casquette de Sacha",
+      "Ref": "Pokémon",
+      "ID": "043",
+      "img": "https://pngimage.net/wp-content/uploads/2018/05/casquette-pokemon-png-2.png",
+      "footer_text": "Attrapez-les tous !",
+      "footer_img": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG"
+    }
+  ],
+  "Item044": [
+    {
+      "Name": "La Casquette de Red",
+      "Ref": "Pokémon",
+      "ID": "044",
+      "img": "https://www.wootbox.fr/upload/media/media_bundle/325be38f51398cdd7cd8529cc2ff020e28a18e4e.png",
+      "footer_text": "Attrapez-les tous !",
+      "footer_img": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokeball.PNG"
+    }
+  ],
+  "Item045": [
+    {
+      "Name": "La Montre d'Alchimiste d'Etat",
+      "Ref": "Fullmetal Alchemist",
+      "ID": "045",
+      "img": "https://zupimages.net/up/19/01/a172.png",
+      "footer_text": "Pour chaque chose reçue, il faut en abandonner une autre de même valeur.",
+      "footer_img": "https://i.ebayimg.com/images/g/En8AAMXQPW5SHiAh/s-l300.jpg"
+    }
+  ],
+  "Item046": [
+    {
+      "Name": "Le Bras Automail d'Edward",
+      "Ref": "Fullmetal Alchemist",
+      "ID": "046",
+      "img": "https://zupimages.net/up/19/01/lqbr.png",
+      "footer_text": "Pour chaque chose reçue, il faut en abandonner une autre de même valeur.",
+      "footer_img": "https://i.ebayimg.com/images/g/En8AAMXQPW5SHiAh/s-l300.jpg"
+    }
+  ],
+  "Item047": [
+    {
+      "Name": "L'Armure d'Elric",
+      "Ref": "Fullmetal Alchemist",
+      "ID": "047",
+      "img": "https://zupimages.net/up/19/01/czdk.png",
+      "footer_text": "Pour chaque chose reçue, il faut en abandonner une autre de même valeur.",
+      "footer_img": "https://i.ebayimg.com/images/g/En8AAMXQPW5SHiAh/s-l300.jpg"
+    }
+  ],
+  "Item048": [
+    {
+      "Name": "Le Death Note",
+      "Ref": "Death Note",
+      "ID": "048",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Death_Note%2C_Book.svg/853px-Death_Note%2C_Book.svg.png",
+      "footer_text": "Il ne faut pas vivre la vie, mais il faut la supporter !",
+      "footer_img": "https://images-na.ssl-images-amazon.com/images/I/31BrnHjjm4L._SX425_.jpg"
+    }
+  ],
+  "Item049": [
+    {
+      "Name": "Le Bandeau de Konoha",
+      "Ref": "Naruto",
+      "ID": "049",
+      "img": "https://vignette.wikia.nocookie.net/naruto/images/c/c4/Bandeau_frontal.png/revision/latest?cb=20121212005140&path-prefix=fr",
+      "footer_text": "Si c'est ça être sage, alors je préfère rester un idiot pour le restant de mes jours !",
+      "footer_img": "https://vignette.wikia.nocookie.net/naruto/images/5/56/Sharingan_Triple.svg/revision/latest/scale-to-width-down/200?cb=20091022225716"
+    }
+  ],
+  "Item050": [
+    {
+      "Name": "Un Parchemin d'Invocation",
+      "Ref": "Naruto",
+      "ID": "050",
+      "img": "https://vignette.wikia.nocookie.net/naruto/images/8/80/Parchemin_de_Contrat_du_Crapaud.png/revision/latest?cb=20160608211900&path-prefix=fr",
+      "footer_text": "Si c'est ça être sage, alors je préfère rester un idiot pour le restant de mes jours !",
+      "footer_img": "https://vignette.wikia.nocookie.net/naruto/images/5/56/Sharingan_Triple.svg/revision/latest/scale-to-width-down/200?cb=20091022225716"
+    }
+  ]
+}
